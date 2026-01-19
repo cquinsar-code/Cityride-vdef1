@@ -1,5 +1,5 @@
 {
-  "name": "cityride",
+  "name": "app vdef1",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -18,3 +18,4 @@
     "pdf-lib": "^1.17.1"
   }
 }
+
